@@ -38,3 +38,5 @@ Windows version contains minor post-jam updates:
 | Sydney Paige | Voices                                      |
 
 Made for ShroomJam 2025 in 1 week
+
+[Original Source](https://3di70r.itch.io/knife-man)
